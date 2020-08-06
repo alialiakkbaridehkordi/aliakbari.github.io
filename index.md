@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/alialiakkbaridehkordi/aliakbari.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### Resume
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Logo](https://github.com/mohammadkad/mohammadkad.github.io/raw/master/pic.png)
 
-### Jekyll Themes
+---
+Name :Ali Aliakbari Dehkordi
+TEL  : 09131842371
+Mail : akbari_al6446@yahoo.com<br/>
+Quera Resume : [link to Resume.](https://quera.ir/qcv/) <br/>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alialiakkbaridehkordi/aliakbari.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    
+### Education
+---
 
-### Support or Contact
++ Master of Science: Software Engineering
+  - 2019, Payamenoor University of Tehran
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
++ Bachelor of Science: Software Engineering
+  - 2010-2012,  Payamenoor University of Shahrekord
+
++ Bachelor of Science: Applide of mathematics
+ - 2008-2010,  Payamenoor University of Shahrekord
+
+### Skill Highlights
+---
++	Programming Languages (C#,Java,Mathlab)
+	
++	Database (MS SQL Server,Oracle, Access)  
+
++	Data Structures and Algorithms
+
++	Photoshop,Illustrator
+	
++	Data mining
+
++	Network 
+
+
+### Working Experience
+---
+
+It Engineering at  Shahrekord University of medical Sciense
+  -2008 until now
+    
+
+ 
